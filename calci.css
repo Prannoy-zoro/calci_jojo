@@ -1,0 +1,17 @@
+
+
+
+body{
+    background-color: rgb(108, 104, 104);
+    
+}
+.num-div{
+    color: red;
+    height: 300px;
+    width: 30rem;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    
+
+}
